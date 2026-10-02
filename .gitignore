@@ -1,0 +1,4 @@
+*.pkl
+*.csv
+/templates/TODO.md
+__pycache__/
